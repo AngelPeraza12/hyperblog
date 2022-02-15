@@ -1,4 +1,17 @@
-Hola Soy Angel
-estudio en platzi
-por ahora estudio git y github
-mañana nos enfocaremos en su vida
+
+- 👋 Hi, I’m @AngelPeraza12, I love learning new things, I'm looking for jumping up on the new industry learning programming.
+- 👀 I’m interested in programming and data science, I study in platzi Inc.
+- 🌱 I’m currently learning python, jupyter notebook (deepnote), data science, statistic & english.
+  👉 I want to grow up on this industry, I’m ready to work with you 
+- 💞️ I’m looking to collaborate on open source proyects && I'm looking for my first job in programming
+- 
+  ✨ approved courses in platzi.
+      -Fundamentos de Ingeniería de Software
+       -Curso Gratis de Programación Básica
+        -Curso de Trabajo Remoto o Teletrabajo
+         - Curso de Tecnología para Gerentes y Directores
+          - Curso de Introducción a la Terminal y Línea de Comandos
+           - Curso Básico de Seguridad Informática para Empresas
+            - Curso Básico de Python
+
+📫 How to reach me -- angelplay46@gmail.com or angelfuturos@gmail.com
